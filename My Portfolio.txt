@@ -1,0 +1,102 @@
+                                                  <!-- MY CV PROJECT -->
+<html>
+    <!-- HEADER SECTION -->
+    <header>
+        <title>Yogaprasad M K Resume</title>
+    </header>
+    <!-- MAIN SECTION -->
+    <body>
+        <!-- Heading -->
+        <h1 style="text-align:center"> <strong>MY CV</strong></h1>
+        <main>
+        <section>
+            <header>
+                <h1 style="text-align:center">Yogaprasad M K</h1>
+                <h2 style="text-align:center">Aspiring Front-end Web Developer</h2>
+            </header>
+        </section>
+        <hr>
+        <section>
+            <h2>Summary:</h2>
+            <p1>"I am a second-year CS engineering student at Muthayammal Engineering College,Kakkaveri.First of all, lot of thanks to profile visitors for visiting my Linkedin profile.
+My name is Yogaprasad. I am from Kumbakonam (Tamilnadu). I have done my schooling from C.P.Vidya Mandhir Matriculation Hr.Sec School.Now I am pursuing BE-CS Engineering from Muthayammal Engineering College. I choose B.E.CS Engineering because I want to make my career in this field.Now I Started to learn technical skills like Python,Html and more. If I talk about my hobbies I love traveling and listening various language music. My strength is I'm a disciplined person, punctual, positive attitude.
+My short-term goal is to get a job in a product based companies and long-term goal is to get a higher position in an organization and want to build my career.
+I am a begineer programmer started to solve problems in Hackerrank.During my schooling I have participated in Co-curricular activities like Drawing,Drama,Debate,Morning Assembly Programs,etc.</p1>
+        </section>
+        <section>
+            <h1><u>MARKS:</u></h1>
+            <table border="1">
+                <thead>Marks:</thead>
+                <tbody>
+                    <tr>
+                        <th>10th Marks</th>
+                        <th>12th Marks</th>
+                        <th>1st Year CGPA</th>
+                    </tr>
+                    <tr>
+                        <td>403</td>
+                        <td>507.44</td>
+                        <td>8.17%</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+        <section>
+            <h1>Education:</h1>
+            <ol>
+                <li>Muthayammal Engineering college(Autonomous)|2021-2025</li>
+                <li>C.P.Vidya Mandir Matriculation Higher Secodary School|2019-2021</li>
+                <li>Sri Kalimagal Kendra Matriculation Higher Secondary School|2015-2019</li>
+        </section>
+        <section>
+            <h1>License & Certifications:</h1>
+            <ol>
+                <a href="https://www.sololearn.com/certificates/CC-KCKIFUZ2"><li>Introduction To HTML</li></a>
+            </ol>
+        </section>
+        <section>
+            <h1>Skills:</h1>
+            <ol>
+                <li>Python(Begineer)</li>
+                <li>HTML5(Intermediate)</li>
+                <li>CSS(Basic)</li>
+                <li>Web Development(Basic)</li>
+                <li>Presentation(Basic)</li>
+            </ol>
+        </section>
+        <section>
+            <h1>Languages:</h1>
+            <ol>
+                <li>English(Working Profiency)</li>
+                <li>Tamil(Native)</li>
+                <li>Saurashtra(Native)</li>
+            </ol>
+        </section>
+        <section>
+            <h1>PROJECT:</h1>
+            <ol style="1">
+                <a href="https://github.com/Yogaprasadmk/Timetable-Using-HTML/blob/main/Timetable.txt"><li>Timetable</li></a>
+            </ol>
+        </section>
+        <section>
+            <h1>Portfolio:</h1>
+            <ol>
+                <a href="https://www.linkedin.com/in/yogaprasad-m-k-a59723234"><li>Linkedin</li></a>
+                <br>
+                <a href="https://linktr.ee/yogaprasad.m.k"><li>Linktree</li></a>
+                <br>
+                <a href="https://github.com/Yogaprasadmk"><li>Github</li></a>
+            </ol>
+        </section>
+        <footer>
+        <h1>Contact:</h1>
+        <ol>
+                <a href="https://www.linkedin.com/in/yogaprasad-m-k-a59723234"><li>Linkedin</li></a>
+                <li>Email:Yogaprasadmk@gmail.com</li>
+        </ol>
+        <p style="text-align:center">Copyright&copyYogaprasad</p>
+        </footer>
+        </main>
+    </body>      
+</html>
+                                                  
